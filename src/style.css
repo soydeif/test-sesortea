@@ -1,1 +1,16 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.for-title {
+  font-weight: bold;
+  font-size: 80px;
+  color: #22245c;
+}
+.for-subtitle {
+  font-size: 80px;
+  font-weight: lighter;
+  color: #22245c;
+}
+.regist {
+  position: relative;
+  left: 880px;
+}
